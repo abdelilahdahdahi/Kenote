@@ -27,7 +27,7 @@ const notes = [
         key: 5,
         title: "Kubernetes VS Docker",
         content:
-          "What's the difference between them? How they work?"
+          "What's the difference between them? How they work? Find out"
     }
 ];
 
